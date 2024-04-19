@@ -2,7 +2,7 @@
 import React from "react";
 import { StickyScroll } from "./ui/sticky-scroll-reveal";
 import Image from "next/image";
-import styles from "../app/styles/whychooseus.module.css";
+import styles from "../styles/whychooseus.module.css";
 
 const musicSchoolContent = [
   {
